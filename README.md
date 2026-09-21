@@ -24,7 +24,7 @@ I enjoy working on <b>embedded systems and machine learning</b>, I'm super passi
 </p>
 
 - B.S. in Computer Science at The University of Texas at Dallas (Collegium V Honors)
-- SWEMatch Committee Lead at Society of Women Engineers UTD, Outreach Officer @ UT Dallas, Developer @ Nebula Labs UTD, AIM Mentor @ Artificial Intelligence Society UTD
+- SWEMatch Committee Officer at Society of Women Engineers UTD, ACM Outreach Officer @ UT Dallas, Developer @ Nebula Labs UTD, AIM Mentor @ Artificial Intelligence Society UTD
 - wins!! : 1st Place @ WeHack 2026 (State Farm Track) | 2nd Place @ AIM 2026
 
 ---
