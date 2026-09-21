@@ -78,8 +78,3 @@ An end-to-end iOS application and ML hardware pipeline. Uses signal fusion to en
 </p>
 
 ---
-
-<div align="center">
-  <h3 style="color: #8A2BE2;">📊 my activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=psrlhitha&show_icons=true&theme=synthwave&title_color=8A2BE2&text_color=E6E6FA&bg_color=0D1117" alt="Srihitha's GitHub Stats" />
-</div>
