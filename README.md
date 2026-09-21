@@ -20,11 +20,11 @@
 <h2 style="color: #BD97C6; border-bottom: 2px solid #BD97C6;"> about me: </h2>
 
 <p style="color: #BD97C6;">
-I enjoy working on <b>embedded systems and machine learning</b>, I'm super passionate about building solutions that help the community and have a real, quantifiable impact. I want my work to bridge the gap between hardware, machine learning, and intuitive web applications. I am always trying to expand my skillset and want to always be learning.
+I enjoy working on <b>embedded systems and machine learning</b>, I'm super passionate about building solutions that help the community and have a real, quantifiable impact. I want my work to bridge the gap between hardware, machine learning, and intuitive web applications. I am always trying to expand my skillset and .
 </p>
 
 - B.S. in Computer Science at The University of Texas at Dallas (Collegium V Honors)
-- SWEMatch Committee Officer at Society of Women Engineers UTD, ACM Outreach Officer @ UT Dallas, Developer @ Nebula Labs UTD, AIM Mentor @ Artificial Intelligence Society UTD
+- SWEMatch Committee Officer at Society of Women Engineers UTD, ACM Outreach Officer @ UT Dallas, AIM Mentor @ Artificial Intelligence Society UTD, Developer @ Nebula Labs UTD
 - wins!! : 1st Place @ WeHack 2026 (State Farm Track) | 2nd Place @ AIM 2026
 
 ---
