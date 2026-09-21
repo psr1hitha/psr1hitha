@@ -54,7 +54,7 @@ I enjoy working on <b>embedded systems and machine learning</b>, I'm super passi
   </tr>
   <tr>
     <td width="30%" style="padding: 12px; color: #8A2BE2; font-weight: bold; font-size: 1.05em;">🎨 ui/ux & design </td>
-    <td style="padding: 12px; color: #E6E6FA;">Figma • Mobile-Responsive Design • Web Accessibility</td>
+    <td style="padding: 12px; color: #E6E6FA;"> figma • swift/mobile-responsive design • Web Accessibility</td>
   </tr>
 </table>
 
