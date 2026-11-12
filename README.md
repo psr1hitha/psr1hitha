@@ -62,17 +62,22 @@ I enjoy working on <b>embedded systems and machine learning</b>, I'm super passi
 
 <h2 style="color: #8A2BE2; border-bottom: 2px solid #8A2BE2;"> featured projects! </h2>
 
-<h3 style="color: #9370DB;"> nightoracle. <span style="font-size:0.8em; color:#BA55D3;">— 1st Place, WeHack 2026</span></h3>
+<h3 style="color: #9370DB;"> foresite <span style="font-size:0.8em; color:#BA55D3;">— HackUTD 2026</span></h3>
+<p style="color: #E6E6FA;">
+An AI-powered digital twin of a building that you can walk through on a Meta Quest 3S, built with Unity 6, SpacetimeDB, NVIDIA Nemotron and on-device Whisper. A team of eight Nemotron agents predicts cascading failures, prices the damage from real lease terms and carries out the fix. In one run, expected losses fell from $244K to $4.8K, with 15/15 accuracy (vs. 11/15 without its tools) and ~38 ms multiplayer sync.
+</p>
+
+<h3 style="color: #9370DB;"> nightoracle <span style="font-size:0.8em; color:#BA55D3;">— 1st Place, WeHack 2026</span></h3>
 <p style="color: #E6E6FA;">
 A real-time nighttime driving risk score app built using React, Python, FastAPI, Vultr Cloud, Gemini API, and a SenseCAP Indicator. Powered by a gradient boosting classifier trained on 50,000+ NHTSA crash records achieving 84.7% accuracy.
 </p>
 
-<h3 style="color: #9370DB;"> sentinel. <span style="font-size:0.8em; color:#BA55D3;">— 2nd Place, AIM 2026</span></h3>
+<h3 style="color: #9370DB;"> sentinel <span style="font-size:0.8em; color:#BA55D3;">— 2nd Place, AIM 2026</span></h3>
 <p style="color: #E6E6FA;">
 An end-to-end monitoring pipeline aggregating satellite imagery, 50,000+ FBI crime records, and AIS data across 12+ global ports. Features transformer-based NLP models fine-tuned on maritime incident reports (91% F1-score) to predict port disruptions.
 </p>
 
-<h3 style="color: #9370DB;"> menopro.</h3>
+<h3 style="color: #9370DB;"> menopro </h3>
 <p style="color: #E6E6FA;">
 An end-to-end iOS application and ML hardware pipeline. Uses signal fusion to engineer proxy skin conductance features, cutting hardware costs by ~60% and a Random Forest Regressor achieving 86.3% accuracy in predicting hot flash occurrences.
 </p>
